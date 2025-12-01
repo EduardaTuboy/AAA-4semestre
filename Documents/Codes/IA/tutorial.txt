@@ -1,0 +1,4 @@
+1. Digite `swipl`
+2. Selecione o código por `consult('codigo.pl').`
+3. Faça as perguntas
+4. Para sair, digite `halt.`
